@@ -23,6 +23,3 @@ This repository contains my internship work on Python for Data Analytics.
 * DataFrames and analysis (Pandas)
 * Plotting graphs (Matplotlib)
 
-## ✨ Author
-
-Devika R Nair
